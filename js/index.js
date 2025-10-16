@@ -27,7 +27,12 @@ const members = [
     name: 'Emmanouela Vagianou',
     icon: 'EV'
   },
-
+{
+    id: 'fotini',
+    url: '',
+    name: 'Foteini Ypsilanti',
+    icon: 'F'
+  },
   // Προσθέστε νέα μέλη εδώ:
   // { id: 'maria', url: 'https://maria.github.io/cv', name: 'Μαρία Κ.', icon: 'Μ' }
 ];
